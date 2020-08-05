@@ -1,1 +1,1 @@
-# Avoid-Overfitting-using-Tensorflow
+# Avoid Overfitting using Regularization in Tensorflow
